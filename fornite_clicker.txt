@@ -3,7 +3,7 @@ Let's make a game!
 	by:Brfryeet
 	desc:fortnite ya yeet
 	created:1/30/2021
-	updated:
+	updated:1/30/2021
 	version:1
 
 Settings
