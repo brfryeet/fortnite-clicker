@@ -1,4 +1,4 @@
-YEEEET
+Let's make a game!
 	name:Fortnite
 	by:Brfryeet
 	desc:fortnite ya yeet
