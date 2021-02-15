@@ -23,8 +23,7 @@ Buttons
 		on click:anim icon wobble
 		on click:yield 1 bunny
 		on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
-		icon:stuff/bunny.png
-		no text
+		icon:https://static.wikia.nocookie.net/fortnite/images/5/5a/Icon_Stone.png/revision/latest?cb=20170806015537
 		class:bigButton hasFlares
 		icon class:shadowed
 		tooltip origin:bottom
