@@ -13,7 +13,7 @@ Settings
 	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
 	stylesheet:stuff/bigBlue.css
 
-Layouta
+Layout
 	use default
 		
 Buttons
