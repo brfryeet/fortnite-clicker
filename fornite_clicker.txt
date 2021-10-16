@@ -4,7 +4,7 @@ Let's make a game!
 	desc:fortnite ya yeet
 	created:1/30/2021
 	updated:1/30/2021
-	version:1
+	version:2
 
 Settings
 	background:https://github.com/brfryeet/fortnite-clicker/raw/main/images/fortnite-hidden-letter-loading-screen-locations-6003-1571158389188.jpg
