@@ -22,7 +22,7 @@ Buttons
 		desc:Click this little brick to get more bricks!
 		on click:anim icon wobble
 		on click:yield 1 brick
-		on click:if (have goldenTouch and chance(1%)) yield 1 metal
+		on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
 		icon:https://raw.githubusercontent.com/brfryeet/fortnite-clicker/main/images/brick.png
 		no text
 		class:bigButton hasFlares
